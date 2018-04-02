@@ -14,7 +14,8 @@ NodeMCU-, Micropython-Firmware-Varianten unterstützen das interaktive Programmi
 
 Als **Nachfolger des ESP8266** entwickelte espressif den Mikrocontroller **ESP32** mit einigen Verbesserungen wie beispielsweise Bluetooth und einem Hallsensor.
 
-==Projekte==
+**Projekte**
+
 {| class="wikitable" style="text-align: center;"
 !Nummer
 !Projekt
