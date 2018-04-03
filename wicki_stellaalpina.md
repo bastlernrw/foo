@@ -13,12 +13,22 @@ Das nächste Stella Alpina Motorradtreffen findet am **08.07.2018** statt.
 
 **Routenplanung**
 Wer:
-* tinkerfux (Honda CB500X)
-* Lisa
-* ???
-* ???
+
+<TABLE>
+<tr><th>Teilnehmer</th><th>Name</th><th>Motorrad</th></tr>
+<tr><td>Lisa</td><td> </td><td>?</td></tr>
+<tr><td>Max</td><td>tinkerfux</td><td>Honda CB500X</td></tr>
+<tr><td> ? </td><td> ? </td><td> ? </td></tr>
+<tr><td> ? </td><td> ? </td><td> ? </td></tr>
+</TABLE>
 
 **Routenverlauf**
+
+<TABLE>
+<tr><th>Startpunkt</th><th>Zwischenziel</th><th>Tages KM     </th></tr>
+<tr><td> Düsseldorf     </td><td>           </td><td>        </td></tr>
+<tr><td>                </td><td>           </td><td>        </td></tr>
+</TABLE>
 
 **Unterkünfte**
 
