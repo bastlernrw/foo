@@ -16,8 +16,8 @@ Wer:
 
 <TABLE>
 <tr><th>Teilnehmer</th><th>Name</th><th>Motorrad</th></tr>
-<tr><td>Lisa</td><td> </td><td>?</td></tr>
-<tr><td>Max</td><td>tinkerfux</td><td>Honda CB500X</td></tr>
+<tr><td>L </td><td> </td><td>?</td></tr>
+<tr><td>M </td><td>  </td><td>Honda </td></tr>
 <tr><td> ? </td><td> ? </td><td> ? </td></tr>
 <tr><td> ? </td><td> ? </td><td> ? </td></tr>
 </TABLE>
