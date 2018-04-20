@@ -23,7 +23,7 @@
 <TABLE>
 
 <tr><th>Event</th><th>Ort</th><th>Datum</th><th>Link</th></tr>
-<tr><th>Max         </th><th>      Solingen</th><th>12.02.2019</th><th>                ????</th></tr>
+
 
 </TABLE>
 
