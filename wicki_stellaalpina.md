@@ -16,10 +16,10 @@ Wer:
 
 <TABLE>
 <tr><th>Teilnehmer</th><th>Name</th><th>Motorrad</th></tr>
-<tr><td>L </td><td> </td><td>?</td></tr>
-<tr><td>M </td><td>  </td><td>Honda </td></tr>
-<tr><td> ? </td><td> ? </td><td> ? </td></tr>
-<tr><td> ? </td><td> ? </td><td> ? </td></tr>
+<tr><td>1 </td><td> </td><td> keine Angaben </td></tr>
+<tr><td>2 </td><td> </td><td> keine Angaben </td></tr>
+<tr><td>3 </td><td> </td><td> keine Angaben </td></tr>
+<tr><td>4 </td><td> </td><td> keine Angaben </td></tr>
 </TABLE>
 
 **Routenverlauf**
