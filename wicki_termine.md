@@ -1,7 +1,7 @@
 **2018**
 
 <TABLE>
-<tr><th>Event</th><th>Ort</th><th>Datum</th><th>Link</th></tr>
+<tr><th width=25%>Event</th><th width=25%>Ort</th><th width=20% >Datum</th><th width=30% >Link</th></tr>
 <tr><th> FOSDEM 2018 </th><th> Brüssel </th><th> 03.02. & 04.02 </th><th> https://fosdem.org/2018/ </th></tr>
 <tr><th> Maker Faire Ruhr </th><th>  Dortmund DASA </th><th>  10.03. & 11.03.          </th><th>         https://www.makerfaire-ruhr.com/      </th></tr>
 <tr><th> Easterhegg</th><th>Würzburg  </th><th>     30.03. - 02.04.     </th><th>               </th></tr>
@@ -22,8 +22,8 @@
 
 <TABLE>
 
-<tr><th>Event</th><th>Ort</th><th>Datum</th><th>Link</th></tr>
-<tr><th>   Tifu Geburtstag    </th><th>   Berlin ?  </th><th>   12.02.2019  </th><th>  23 Jahre alt            </th></tr>
+<tr><th width=25%>Event</th><th width=25%>Ort</th><th width=20% >Datum</th><th width=30% >Link</th></tr>
+<tr><th>   Tifu Geburtstag    </th><th>   Berlin ?  </th><th>   12.02.2019  </th><th>             </th></tr>
 
 
 </TABLE>
