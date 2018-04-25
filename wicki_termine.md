@@ -23,6 +23,7 @@
 <TABLE>
 
 <tr><th>Event</th><th>Ort</th><th>Datum</th><th>Link</th></tr>
+<tr><th>   Tifu Geburtstag    </th><th>   Berlin ?  </th><th>   12.02.2019  </th><th>  23 Jahre alt            </th></tr>
 
 
 </TABLE>
