@@ -11,7 +11,12 @@
 <tr><th>   GPN 2018      </th><th> Karlsruhe       </th><th>  10.05. - 13.05.      </th><th>               </th></tr>
 <tr><th>   Bildungsurlaub   </th><th>  Bergisches Land      </th><th>  14.05. - 18.05.          </th><th>               </th></tr>
 <tr><th>   GOA      </th><th>    Neuss     </th><th>     02.06. - 03.06.       </th><th>               </th></tr>
-<tr><th>   Extraschicht 2018      </th><th>  Ruhrgebiet       </th><th>       30.06.2018     </th><th>               </th></tr>
+<tr><th>   AASSET EXPO 2018     </th><th>    Düsseldorf </th><th>     07.06.2018   </th><th>   Classic Remise </th></tr>
+<tr><th>  Erdebeerfest </th><th>    Langenfeld </th><th>     09.06. - 10.06.2018       </th><th>   www.hofladen-weeger.de            </th></tr>
+
+
+
+<tr><th>   Extraschicht 2018      </th><th>  Ruhrgebiet       </th><th>       30.06.2018     </th><th> www.extraschicht.de             </th></tr>
 <tr><th>   Stella Alpina      </th><th>   Bardonecchia      </th><th>    08.07. - ??.??.        </th><th>               </th></tr>
 <tr><th>   EMF      </th><th>   SW-England t.b.d.      </th><th>   31.08. - 02.09.        </th><th>      https://www.emfcamp.org/         </th></tr>
 <tr><th>   FrOSCon      </th><th>  Sankt Augustin      </th><th>   25.08. - 26.08.        </th><th>             </th></tr>
