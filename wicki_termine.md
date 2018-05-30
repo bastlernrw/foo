@@ -19,7 +19,10 @@
 <tr><th>   Extraschicht 2018      </th><th>  Ruhrgebiet       </th><th>       30.06.2018     </th><th> www.extraschicht.de             </th></tr>
 <tr><th>   Stella Alpina      </th><th>   Bardonecchia      </th><th>    08.07. - ??.??.        </th><th>               </th></tr>
 <tr><th>   EMF      </th><th>   SW-England t.b.d.      </th><th>   31.08. - 02.09.        </th><th>      https://www.emfcamp.org/         </th></tr>
-<tr><th>   FrOSCon      </th><th>  Sankt Augustin      </th><th>   25.08. - 26.08.        </th><th>             </th></tr>
+<tr><th>   FrOSCon      </th><th>  Sankt Augustin      </th><th>   25.08. - 26.08.        </th><th>   ....          </th></tr>
+
+<tr><th>LANGE NACHT DER INDUSTRIE  </th><th>  Rhein / Ruhr  </th><th>  11.10.2018 </th><th> www.langenachtderindustrie.de </th></tr>
+
 <tr><th>   35C3   </th><th>   ???    </th><th>   27.12 - 30.12        </th><th>             </th></tr>
 </TABLE>
 
@@ -28,7 +31,7 @@
 <TABLE>
 
 <tr><th width=25%>Event</th><th width=25%>Ort</th><th width=20% >Datum</th><th width=30% >Link</th></tr>
-<tr><th>   Tifu Geburtstag    </th><th>   Berlin ?  </th><th>   12.02.2019  </th><th>             </th></tr>
+<tr><th>   Max Geburtstag    </th><th>  Düsseldorf/Erkrath  </th><th>   12.02.2019  </th><th>             </th></tr>
 
 
 </TABLE>
