@@ -17,7 +17,15 @@
 
 
 <tr><th>   Extraschicht 2018      </th><th>  Ruhrgebiet       </th><th>       30.06.2018     </th><th> www.extraschicht.de             </th></tr>
-<tr><th>   Stella Alpina      </th><th>   Bardonecchia      </th><th>    08.07. - ??.??.        </th><th>               </th></tr>
+<tr><th>   Stella Alpina      </th><th>   Bardonecchia      </th><th>    08.07. - ??.??.        </th><th>  ausgefallen             </th></tr>
+
+<tr><th>   Alpentour  </th><th>  Schwarzwald / Österreich      </th><th>    04.07. - 18.07.2018   </th><th>  fast 4000Km             </th></tr>
+
+<tr><th>   Fieldday 2018  </th><th>  Pferdeweg 2, 31787 Hameln   </th><th>    17.08. - 19.08.2018   </th><th>  www.chaoswelle.de/Fieldday_2018</th></tr>
+
+
+
+
 <tr><th>   EMF      </th><th>   SW-England t.b.d.      </th><th>   31.08. - 02.09.        </th><th>      https://www.emfcamp.org/         </th></tr>
 <tr><th>   FrOSCon      </th><th>  Sankt Augustin      </th><th>   25.08. - 26.08.        </th><th>   ....          </th></tr>
 
