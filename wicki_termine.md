@@ -34,6 +34,7 @@
 <TABLE>
 
 <tr><th width=25%>Event</th><th width=25%>Ort</th><th width=20% >Datum</th><th width=30% >Link</th></tr>
+
 <tr><th>   Max Geburtstag    </th><th>  Düsseldorf/Erkrath  </th><th>   12.02.2019  </th><th>             </th></tr>
 
 <tr><th> FOSDEM 2019 </th><th> Brüssel </th><th> 02.02. bis 03.02.2019 </th><th> https://fosdem.org/2019/ </th></tr>
@@ -50,8 +51,8 @@
 <tr><th>   GPN 2019      </th><th> Karlsruhe       </th><th>        </th><th>               </th></tr>
 <tr><th>   Bildungsurlaub   </th><th>  ****    </th><th>          </th><th>               </th></tr>
 <tr><th>   GOA      </th><th>    Neuss     </th><th>            </th><th>               </th></tr>
-<
-tr><th>  Erdebeerfest </th><th>    Langenfeld </th><th>     ****  </th><th>   www.hofladen-weeger.de            </th></tr>
+
+<tr><th>  Erdebeerfest </th><th>    Langenfeld </th><th>     ****  </th><th>   www.hofladen-weeger.de            </th></tr>
 
 <tr><th>   Extraschicht 2019      </th><th>  Ruhrgebiet       </th><th>       29.06.2019     </th><th> www.extraschicht.de             </th></tr>
 
