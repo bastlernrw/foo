@@ -24,6 +24,10 @@
 <tr><th>   EMF      </th><th>   SW-England t.b.d.      </th><th>   31.08. - 02.09.        </th><th>      https://www.emfcamp.org/         </th></tr>
 <tr><th>   FrOSCon      </th><th>  Sankt Augustin      </th><th>   25.08. - 26.08.        </th><th>   ....          </th></tr>
 
+
+<tr><th>MRMCD2018 </th><th>  TU Darmstadt  </th><th>  07.09 bis 09.09.2018 </th><th> https://2018.mrmcd.net/ </th></tr>
+
+
 <tr><th>LANGE NACHT DER INDUSTRIE  </th><th>  Rhein / Ruhr  </th><th>  11.10.2018 </th><th> www.langenachtderindustrie.de </th></tr>
 
 <tr><th>   35C3   </th><th>   ???    </th><th>   27.12 - 30.12        </th><th>             </th></tr>
@@ -61,6 +65,11 @@
 <tr><th>   EMF      </th><th>   SW-England t.b.d.      </th><th>   31.08. - 02.09.        </th><th>      https://www.emfcamp.org/         </th></tr>
 
 <tr><th>   FrOSCon      </th><th>  Sankt Augustin      </th><th>   *****       </th><th>   ....          </th></tr>
+
+
+<tr><th>MRMCD2019 </th><th>  TU Darmstadt  </th><th>  *****   </th><th> *****  </th></tr>
+
+
 
 <tr><th>LANGE NACHT DER INDUSTRIE  </th><th>  Rhein / Ruhr  </th><th>  **** </th><th> www.langenachtderindustrie.de </th></tr>
 
