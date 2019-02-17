@@ -15,7 +15,7 @@
 
 <tr><th>Anlassen 2019</th><th>Nürburgring</th><th>22.04.2019</th><th>               </th></tr>
 
-<tr><th> Partnertreff Sonepar 2019</th><th>  Bochum </th><th> 26.04 - 27.04.2018  </th><th>http://sonepar-events.de              </th></tr>
+<tr><th> Partnertreff Sonepar 2019</th><th>  Bochum </th><th> 26.04 - 27.04.2019 </th><th>http://sonepar-events.de              </th></tr>
   
 <tr><th>   GPN 2019      </th><th> Karlsruhe       </th><th> 30.05 - 02.06.2019  </th><th> https://entropia.de/Termine   </th></tr>
 <tr><th>   Bildungsurlaub   </th><th>  ****    </th><th>          </th><th>               </th></tr>
