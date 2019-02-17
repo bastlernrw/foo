@@ -10,6 +10,9 @@
 
 <tr><th> Maker Faire Ruhr </th><th>  Dortmund DASA </th><th>  23.03. bis 24.03.2019          </th><th>         https://www.makerfaire-ruhr.com/      </th></tr>
 
+<tr><th> #PiandMore 11½ - Hochschule Niederrhein </th><th> NRW </th><th>     06.04.2019   </th><th>     </th></tr>
+
+<tr><th> NACHT DER MUSEEN </th><th> NRW </th><th>     06.04.2019   </th><th>    http://www.nacht-der-museen.de/duesseldorf/           </th></tr>
 
 <tr><th> Easterhegg</th><th>Wien </th><th>     19.04 bis 22.04.2019   </th><th>               </th></tr>
 
